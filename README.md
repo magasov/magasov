@@ -41,7 +41,7 @@
 
 
 
-#### Find me on  
+ 
 
 
  
@@ -49,8 +49,6 @@
  <a href="https://github.com/magasoov" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/github%20rect.svg"></a>&nbsp;&nbsp;
  </p>
 
-<!---Пример кода-->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Мой+Проект)](https://magasoov.github.io/projekt/)
 
 
 
