@@ -21,7 +21,7 @@
   <code><img height="22" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/terminal-1.svg" alt="terminal"></code>
   <code><img height="27" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="java"></code>
   <code><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/css-3.svg" alt="CSS"></code>
-  <code><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/r-lang.svg" alt="R"></code>
+  <code><img height="25" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4ahqhA5bWVzy-JYqEc3CShg6SZXWn_BpQ2w&s" alt="psql"></code>
   <code><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/javascript.svg" alt="JavaScript"></code>
   <code><img height="25" src="https://static-00.iconduck.com/assets.00/next-js-icon-2048x2048-5dqjgeku.png" alt="next"></code>
   <code><img height="25" src="https://img.icons8.com/?size=512&id=74402&format=png" alt="db"></code>
