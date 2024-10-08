@@ -27,7 +27,7 @@
   <code><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/master/svg/Matlab_Logo.png" alt="MATLAB"></code>
   <code><img height="26" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/sql.png" alt="SQL"></code>
   <code><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/html-5.svg" alt="HTML"></code>
-  <code><img height="25" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fru%2Fsearch%3Fq%3DReact&psig=AOvVaw1ejRYMhLhl-wAr1tCdO0Aw&ust=1728485730895000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNC5oaKF_4gDFQAAAAAdAAAAABAE" alt="Tableau"></code>
+  <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="Tableau"></code>
   <code><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/visual-studio-code-1.svg" alt="Visual Code Studio"></code>
 
 
