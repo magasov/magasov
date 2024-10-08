@@ -30,6 +30,10 @@
   <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="Tableau"></code>
   <code><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/visual-studio-code-1.svg" alt="Visual Code Studio"></code>
   <code><img height="25" src="https://cdn-icons-png.flaticon.com/512/919/919853.png" alt="docker"></code>
+  <code><img height="25" src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="postman"></code>
+  <code><img height="25" src="https://cdn-icons-png.flaticon.com/512/919/919825.png" alt="nodejs"></code>
+  <code><img height="25" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" alt="figma"></code>
+  <code><img height="25" src="https://cdn-icons-png.flaticon.com/512/5968/5968358.png" alt="sass"></code>
 
 
 </p>
@@ -47,7 +51,7 @@
 
  
  <a href="https://t.me/magaasov" target="_blank"><img height="25" src="https://pngicon.ru/file/uploads/telegram.png"></a>&nbsp;&nbsp;
- <a href="https://github.com/magasoov" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/github%20rect.svg"></a>&nbsp;&nbsp;
+
  </p>
 
 
