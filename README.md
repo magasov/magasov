@@ -29,6 +29,7 @@
   <code><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/html-5.svg" alt="HTML"></code>
   <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="Tableau"></code>
   <code><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/visual-studio-code-1.svg" alt="Visual Code Studio"></code>
+  <code><img height="25" src="https://cdn-icons-png.flaticon.com/512/919/919853.png" alt="docker"></code>
 
 
 </p>
